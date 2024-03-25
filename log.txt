@@ -1,0 +1,5 @@
+2024-03-25 20:34:53  ->Exception: division by zero
+2024-03-25 20:34:59  ->Exception: division by zero
+2024-03-25 20:36:34  ->Exception: unsupported operand type(s) for /: 'str' and 'int'
+2024-03-25 20:36:53  ->Exception: division by zero
+2024-03-25 20:37:26  ->Exception: division by zero
